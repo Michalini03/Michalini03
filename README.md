@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Michael
 - 🤖 Studying Faculty of Applied Science at Universtiy of West Bohemia
-- 💻 Junior year in Computer Science (Bachalor)
+- 💻 Senior year in Computer Science (Bachalor)
 - 👀 I’m interested in videogames, popculture etc
 - 🌱 I’m currently learning basics from all well-known code languages (such as Python, C#, JS)
 - 📫 How to reach me: misan.malik@outlook.com
